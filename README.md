@@ -1,7 +1,7 @@
 # ITSM-Dashboard
 A comprehensive IT service management dashboard to provide great visual analytics to your organization
 
-## Note that this is a work in progress, we are currently converting proprietary code into open source. It might not be usable yet. We will remove this notice once the dashboard is usable.
+## _*Note that this is a work in progress, we are currently converting proprietary code into open source. It might not be usable yet. We will remove this notice once the dashboard is usable.*_
 
 ### Background
 This tool was written when we were working for L2 operations and productions support. After completing the ITIL Foundations certification and realizing the potential for graphical representation of ticket statistics, instead of drab, text based ones, we pumped this tool full of colorful graphs and pleasent interfaces, basing it on the most impactful design framework of that time - Google's Material Design.
